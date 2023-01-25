@@ -244,11 +244,11 @@ Vienna, Austria
 
 **First Piscine**: unknown | **First Kickoff**: unknown
 
-## [42 Prague](https://)
+## [42 Prague](https://www.42prague.com/)
 
 Prague, Czech Republic
 
-**First Piscine**: unknown | **First Kickoff**: unknown
+**First Piscine**: October 2022 | **First Kickoff**: January 2023
 
 ## [42 Angoulême](https://)
 
